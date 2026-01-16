@@ -1,0 +1,7 @@
+{
+  "name": "Bitta Inventory Manager - AI Inventory Manager",
+  "description": "A high-end inventory management system for spice manufacturers featuring real-time AI voice/chat commands and Excel export capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
